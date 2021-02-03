@@ -1,0 +1,25 @@
+{
+  "name": "gibdogetreats-server",
+  "version": "0.0.1",
+  "description": "Dogecoin Tip Bot for Twitch",
+  "main": "start.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PretzelStyx/GibDogeTreats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PretzelStyx/GibDogeTreats/issues"
+  },
+  "homepage": "https://github.com/PretzelStyx/GibDogeTreats#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

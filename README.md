@@ -1,4 +1,8 @@
-# GibDogeTreats
+# GibDogeTreats-Server
 Dogecoin Tip Bot for Twitch
 
-Well dang I have no idea what to put in a README on GitHub
+Backend server for Twitch Dogecoin Tip bot, handling tipping through chat messages, panels and overlays.
+
+## Setup
+
+No clue yet that's a big ol' TBD my dudes.
