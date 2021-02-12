@@ -1,0 +1,13 @@
+{
+  "commandPrefixList": "['GDT','Gib','Give','GibDoge','GibDogeTreat','GibDogeTreats']",
+  "serverFee":{"val":0.1,"mod":"%"},
+  "twitchAuth": {
+  "identity": {
+    "username": "",
+    "password": ""
+  },
+  "channels": [
+    ""
+  ]
+}
+}

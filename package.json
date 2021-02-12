@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/PretzelStyx/GibDogeTreats#readme",
   "dependencies": {
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "node-dogecoin": "^0.3.9",
+    "tmi.js": "^1.7.1"
   }
 }
